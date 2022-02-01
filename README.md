@@ -1,11 +1,11 @@
 ### Hi, I'm Matt Loy - alias 🧶[LeBolbiquet](https://github.com/LeBolbiquet)
 
-## I'm a a first-year developer student at [EPITECH](https://github.com/Epitech) 💻
+## I'm a first-year developer student at [EPITECH](https://github.com/Epitech) 💻
 
-⋄ ✨ I’m a [ENFP-T](https://www.16personalities.com/fr/la-personnalite-enfp) people
-⋄ 🦕 I’m a [aesthethic lover](https://www.pinterest.fr/f3ckingg0d/wallpaper/), a LIS fan, a RP player and a [music enjoyer](https://open.spotify.com/user/9wqszqkri9nmnzpinr1ywpitb)
+- ✨ I’m an [ENFP-T](https://www.16personalities.com/fr/la-personnalite-enfp) person
+- 🦕 I’m an [aesthethic lover](https://www.pinterest.fr/f3ckingg0d/wallpaper/), a LIS fan, a RP player and a [music enjoyer](https://open.spotify.com/user/9wqszqkri9nmnzpinr1ywpitb)
 ⋄ 🫀 Don't expect code here i'm a sh*t
-⋄ 🔮 Get to know me [this](https://lnk.bio/YLd6) (I know that's suck)
+⋄ 🔮 Get to know me [this](https://lnk.bio/YLd6) (I know that sucks)
 
 ---
 
