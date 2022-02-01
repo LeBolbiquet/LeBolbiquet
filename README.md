@@ -5,7 +5,7 @@
 - ✨ I’m an [ENFP-T](https://www.16personalities.com/fr/la-personnalite-enfp) person
 - 🦕 I’m an [aesthethic lover](https://www.pinterest.fr/f3ckingg0d/wallpaper/), a LIS fan, a RP player and a [music enjoyer](https://open.spotify.com/user/9wqszqkri9nmnzpinr1ywpitb)
 - 🫀 Don't expect a lot of code here i'm trash
-- 🔮 Get to know me [this](https://lnk.bio/YLd6) (I know that sucks)
+- 🔮 Get to know me with [this](https://lnk.bio/YLd6) (I know that sucks)
 
 ---
 
@@ -26,6 +26,12 @@ _(Github stats powered by [@anuraghazra](https://github.com/anuraghazra))_
 
 <br />
 <br />
+
+---
+
+### Contact me 📇
+<img align="left" alt="C" width="48px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />
+
 
 ---
 
