@@ -4,7 +4,7 @@
 
 - ✨ I’m an [ENFP-T](https://www.16personalities.com/fr/la-personnalite-enfp) person
 - 🦕 I’m an [aesthethic lover](https://www.pinterest.fr/f3ckingg0d/wallpaper/), a LIS fan, a RP player and a [music enjoyer](https://open.spotify.com/user/9wqszqkri9nmnzpinr1ywpitb)
-- 🫀 Don't expect code here i'm a sh*t
+- 🫀 Don't expect a lot of code here i'm trash
 - 🔮 Get to know me [this](https://lnk.bio/YLd6) (I know that sucks)
 
 ---
