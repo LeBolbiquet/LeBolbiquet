@@ -17,12 +17,12 @@
 <br />
 _(Github stats powered by [@anuraghazra](https://github.com/anuraghazra))_
 
-![image](https://cdnb.artstation.com/p/assets/images/images/018/831/079/original/camille-unknown-bird-city-ok.gif?1560892231)
-
 ### My little skills 🎯
 
 <img align="left" alt="C" width="48px" src="https://github.com/Autosuffisant/Autosuffisant/blob/master/assets/c-logo.png?raw=true" />
 <img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+![image](https://cdnb.artstation.com/p/assets/images/images/018/831/079/original/camille-unknown-bird-city-ok.gif?1560892231)
 
 <br />
 <br />
