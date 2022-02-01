@@ -10,12 +10,11 @@
 ---
 
 ### My personal sastistics 📈
-![jkh](https://komarev.com/ghpvc/?username=LeBolbiquet&color=749cdb)
+![jkh](https://komarev.com/ghpvc/?username=LeBolbiquet&color=749cdb) _(Github stats powered by [@anuraghazra](https://github.com/anuraghazra))_
 
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=LeBolbiquet&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
 [![My best languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeBolbiquet&layout=compact&theme=radical)](https://github.com/LeBolbiquet/github-readme-stats)
 <br />
-_(Github stats powered by [@anuraghazra](https://github.com/anuraghazra))_
 
 ---
 
