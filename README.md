@@ -25,13 +25,13 @@ _(Github stats powered by [@anuraghazra](https://github.com/anuraghazra))_
 <br />
 <br />
 
+---
 
 ![image](https://cdnb.artstation.com/p/assets/images/images/018/831/079/original/camille-unknown-bird-city-ok.gif?1560892231)
 
 
 ### Contact me 📇
-<img align="left" alt="C" width="48px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />](https://discord.com/)LeBolbiquet#0101
-
+<img align="left" alt="C" width="48px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />[LeBolbiquet#0101](https://discord.com/)
 
 <br />
 <br />
