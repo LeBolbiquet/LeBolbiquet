@@ -36,7 +36,7 @@ _(Github stats powered by [@anuraghazra](https://github.com/anuraghazra))_
 ### Contact me 📇
 <img align="left" alt="Discord" width="28px" src= "https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />[LeBolbiquet#0101](https://discord.com/)  
 <br />
-<img align="left" alt="Server" width="31px" src="https://cdn.discordapp.com/attachments/861253093323702312/919995302763696128/ezgif.com-gif-maker.gif" />[My Discord Server](https://discord.gg/xE3yVpJAJV)
+<img align="left" alt="Server" width="31px" src="https://cdn.discordapp.com/attachments/861253093323702312/938096778048319549/output-onlinegiftools.gif" />[My Discord Server](https://discord.gg/xE3yVpJAJV)
 
 ---
 
