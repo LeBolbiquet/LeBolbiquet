@@ -9,7 +9,7 @@
 
 ---
 
-### Some personal sastistics 📈
+### My personal sastistics 📈
 ![jkh](https://komarev.com/ghpvc/?username=LeBolbiquet&color=FD428D)
 
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=LeBolbiquet&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
@@ -32,6 +32,8 @@ _(Github stats powered by [@anuraghazra](https://github.com/anuraghazra))_
 ### Contact me 📇
 <img align="left" alt="C" width="48px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />
 
+<br />
+<br />
 
 ---
 
