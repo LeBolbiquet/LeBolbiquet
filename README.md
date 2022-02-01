@@ -10,7 +10,7 @@
 ---
 
 ### My personal sastistics 📈
-![jkh](https://komarev.com/ghpvc/?username=LeBolbiquet&color=FD428D)
+![jkh](https://komarev.com/ghpvc/?username=LeBolbiquet&color=749cdb)
 
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=LeBolbiquet&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
 [![My best languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeBolbiquet&layout=compact&theme=radical)](https://github.com/LeBolbiquet/github-readme-stats)
@@ -34,7 +34,7 @@ _(Github stats powered by [@anuraghazra](https://github.com/anuraghazra))_
 ---
 
 ### Contact me 📇
-<img align="left" alt="Discord" width="26px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />[LeBolbiquet#0101](https://discord.com/) 
+<img align="left" alt="Discord" width="26px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />[LeBolbiquet#0101](https://discord.com/)  
 <img align="left" alt="Server" width="30px" src="https://cdn.discordapp.com/attachments/861253093323702312/919995302763696128/ezgif.com-gif-maker.gif" />[My Discord Server](https://discord.gg/xE3yVpJAJV)  
 
 <br />
