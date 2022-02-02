@@ -4,7 +4,6 @@
 
 - ✨ I’m an [ENFP-T](https://www.16personalities.com/fr/la-personnalite-enfp) person
 - 🦕 I’m an [aesthethic lover](https://www.pinterest.fr/f3ckingg0d/wallpaper/), a LIS fan, a RP player and a [music enjoyer](https://open.spotify.com/user/9wqszqkri9nmnzpinr1ywpitb)
-- 🔮 You are kind so I give you [this](https://steamcommunity.com/id/lebolbiquet/)
 
 ---
 
