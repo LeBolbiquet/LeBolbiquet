@@ -20,7 +20,7 @@
 
 <img align="left" alt="C" width="48px" src="https://github.com/Autosuffisant/Autosuffisant/blob/master/assets/c-logo.png?raw=true" />
 <img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="sfml" width="48px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FSimple_and_Fast_Multimedia_Library&psig=AOvVaw3easuuAEkMZ1D9zE5C7ukS&ust=1645522494306000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD2ipC_kPYCFQAAAAAdAAAAABAN" />
+<img align="left" alt="sfml" width="48px" src= "https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" />
 
 <br />
 <br />
