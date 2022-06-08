@@ -21,7 +21,7 @@
 <img align="left" alt="C" width="48px" src="https://github.com/Autosuffisant/Autosuffisant/blob/master/assets/c-logo.png?raw=true" />
 <img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="sfml" width="50px" src= "https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" />
-<img align="left" alt="java" width="48px" src="https://themanis.fr/wp-content/uploads/2019/10/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" />
+<img align="left" alt="java" width="70px" src="https://themanis.fr/wp-content/uploads/2019/10/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" />
 
 <br />
 <br />
@@ -35,7 +35,7 @@
 ### Contact me 📇
 <img align="left" alt="Discord" width="28px" src= "https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />[LeBolbiquet#0101](https://discord.com/)  
 
-<img align="left" alt="Server" width="2px" src="https://cdn.discordapp.com/attachments/861253093323702312/938096778048319549/output-onlinegiftools.gif" />[My Discord Server](https://discord.gg/WTe9HUYM9v)
+<img align="left" alt="Server" width="2px" src="https://cdn.discordapp.com/attachments/984087423736762378/984121011450576906/pp_goatic_3_1.png" />[My Discord Server](https://discord.gg/WTe9HUYM9v)
 
 ---
 
