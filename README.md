@@ -3,7 +3,7 @@
 ## I'm a first-year developer student at [EPITECH](https://github.com/Epitech) 💻
 
 - ✨ I’m an [ENFP-T](https://www.16personalities.com/fr/la-personnalite-enfp) person
-- 🦕 I’m an [aesthethic lover](https://www.pinterest.fr/f3ckingg0d/wallpaper/), a [LIS](https://www.jeuxvideo.com/jeux/jeu-83011/) fan, a [RP](https://redm.net/) player and a [music enjoyer](https://open.spotify.com/user/9wqszqkri9nmnzpinr1ywpitb)
+- 🦕 I’m an [aesthethic lover](https://www.pinterest.fr/f3ckingg0d/my-aesthetic/), a [LIS](https://www.jeuxvideo.com/jeux/jeu-83011/) fan, a [RP](https://redm.net/) player and a [music enjoyer](https://open.spotify.com/user/9wqszqkri9nmnzpinr1ywpitb)
 
 ---
 
