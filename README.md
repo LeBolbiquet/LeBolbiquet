@@ -19,7 +19,6 @@
 ### My skills 🎯
 
 <img align="left" alt="C" width="48px" src="https://github.com/Autosuffisant/Autosuffisant/blob/master/assets/c-logo.png?raw=true" />
-<img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="sfml" width="50px" src= "https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" />
 <img align="left" alt="java" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" />
 
