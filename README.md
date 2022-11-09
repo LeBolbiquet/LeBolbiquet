@@ -16,7 +16,7 @@
 ---
 
 <h3 align="left">Languages and Tools 🎯</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="40"/> </a>
 <img align="" alt="sfml" width="42px" src= "https://cdn.discordapp.com/attachments/861321455525953539/1039981664820019312/1200px-SFML_Logo.svg.png" />
 <a href="https://git-scm.com/" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
