@@ -8,7 +8,7 @@
 ---
 
 ### My personal sastistics 📈
-![jkh](https://komarev.com/ghpvc/?username=LeBolbiquet&color=749cdb)      _(Github stats powered by [@anuraghazra](https://github.com/anuraghazra))_
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lebolbiquet&label=Profile%20views&color=0e75b6&style=flat" alt="lebolbiquet" /> </p>
 
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=LeBolbiquet&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
 [![My best languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeBolbiquet&layout=compact&theme=radical)](https://github.com/LeBolbiquet/github-readme-stats)
