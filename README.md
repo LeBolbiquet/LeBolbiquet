@@ -16,14 +16,14 @@
 
 ---
 
-### My skills 🎯
+### my computer skills 🎯
 
-<img align="left" alt="C" width="48px" src="https://github.com/Autosuffisant/Autosuffisant/blob/master/assets/c-logo.png?raw=true" />
-<img align="left" alt="sfml" width="50px" src= "https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" />
-<img align="left" alt="java" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a  
 
-<br />
-<br />
+### My other skills 🏆
+alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 ---
 
