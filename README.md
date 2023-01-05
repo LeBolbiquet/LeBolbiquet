@@ -26,7 +26,7 @@
 
 ---
 
-![image](https://cdnb.artstation.com/p/assets/images/images/018/831/079/original/camille-unknown-bird-city-ok.gif?1560892231)
+![image](https://cdn.discordapp.com/attachments/861321455525953539/1060595221777363054/acde2a2bf16bb73066dced53300982727ceb537d_hq.gif)
 
 ---
 
