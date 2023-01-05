@@ -26,7 +26,7 @@
 
 ---
 
-![image](https://cdn.discordapp.com/attachments/861321455525953539/1060595221777363054/acde2a2bf16bb73066dced53300982727ceb537d_hq.gif)
+![image](https://media.discordapp.net/attachments/861321455525953539/1060603499605393428/acde2a2bf16bb73066dced53300982727ceb537d_hq_1.gif?width=1164&height=655)
 
 ---
 
