@@ -28,9 +28,3 @@
 
 ![image](https://media.discordapp.net/attachments/861321455525953539/1060605064164687923/ezgif.com-gif-maker_4.gif?width=1164&height=655)
 
----
-
-### Contact me 📇
-<img align="left" alt="Discord" width="28px" src= "https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />[LeBolbiquet#0101](https://discord.com/)  
-
-<img align="left" alt="Server" width="28px" src="https://cdn.discordapp.com/attachments/984087423736762378/984121011450576906/pp_goatic_3_1.png" />[My Discord Server](https://discord.gg/WTe9HUYM9v)
