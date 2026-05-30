@@ -1,4 +1,4 @@
-### Hi, I'm Matt Loy - alias 🦕[LeBolbiquet](https://github.com/LeBolbiquet)
+### Hi, I'm 🦕[LeBolbiquet](https://github.com/LeBolbiquet)
 ## I'm a first-year developer student at [EPITECH](https://github.com/Epitech) 💻
 
 - ✨ I’m an [ENFP-T](https://www.16personalities.com/fr/la-personnalite-enfp) person
